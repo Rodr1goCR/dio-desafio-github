@@ -1,2 +1,4 @@
 Link para download do Git Bash (Windowns): https://git-scm.com/download/win
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Meu pefil GitHub: https://github.com/Rodr1goCR/
